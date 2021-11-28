@@ -8,7 +8,7 @@ The App displays text 'Hello From Jefrin', alongside a change color button. When
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/aQR8ST8JQJ.gif" width=200><br>
 
 
 ### Required User Stories
