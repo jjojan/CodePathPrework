@@ -3,7 +3,7 @@
 ## Text Color Prework
 
 ### App Description
-The App displays text 'Hello From Jefrin', alongside a change color button. When the Button is pressed the text of the color chages to white.
+The App displays text 'Hello From Jeff!', alongside a change color button. When the Button is pressed the text of the color chages to white.
 
 ### App Walk-though
 
